@@ -1,0 +1,7 @@
+Einfach im Verzeichnis /bin die Datei Opensim.ini.exemple in Opensim.ini umbenennen.
+
+Simply rename Opensim.ini.exemple to Opensim.ini in /bin.
+
+Juste dans le répertoire /bin fichier Opensim.ini.exemple renommer OpenSim.ini.
+
+Sólo en el archivo Opensim.ini.exemple directorio /bin renombrar Opensim.ini.
