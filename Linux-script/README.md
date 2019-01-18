@@ -11,7 +11,7 @@ Skript starten mit:
 
 ## mono5.sh
 Prüft ob mono-complete installiert ist.
-Wenn nicht wird mono-complete ohne weitere abfrage installiert.
+Wenn nicht wird mono-complete 5.x ohne weitere abfrage installiert.
 
 ## simstart.sh
 Startet Robust, OpenSim und Money Server aus dem Verzeichnis opensim/bin.
