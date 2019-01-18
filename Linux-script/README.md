@@ -15,7 +15,10 @@ Wenn nicht wird mono-complete 5.x ohne weitere abfrage installiert.
 
 ## simstart.sh
 Startet Robust, OpenSim und Money Server aus dem Verzeichnis opensim/bin.
-Bitte anpassen.
+
+Bitte Pfade und Namen anpassen.
 
 ## simstop.sh
-Beendet Robust, OpenSim und Money Server, welches zuvor mit simstart.sh gestartet wurde.
+Fährt Robust, OpenSim und Money Server herunter mit "shutdown", welches zuvor mit simstart.sh gestartet wurde.
+
+Bitte Pfade und Namen anpassen.
