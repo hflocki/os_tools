@@ -2,12 +2,14 @@
 getestet mit Ubuntu 18.10 Server.
 
 Shell Bash Skripte startbar machen mit:
-     chmod +x skriptname.sh
+
+      chmod +x skriptname.sh
 
 Skript starten mit:
+
      ./skriptname.sh
 
-mono5.sh
+= mono5.sh =
 Prüft ob mono-complete installiert ist.
 Wenn nicht wird mono-complete ohne weitere abfrage installiert.
 
