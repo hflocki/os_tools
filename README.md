@@ -1,4 +1,4 @@
 # OpenSim-Divers
 Divers
 
-Neue Linux Skripte 2019.
+Linux Skripte 2019.
