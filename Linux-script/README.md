@@ -20,7 +20,11 @@ Startet Robust, OpenSim und Money Server aus dem Verzeichnis opensim/bin.
 
 Bitte Pfade und Namen anpassen.
 
+Wenn ihr kein Money Serer habt und/oder Robust nicht benötigt, dann löscht den Bereich heraus.
+
 ## simstop.sh
 Fährt Robust, OpenSim und Money Server herunter mit "shutdown", welches zuvor mit simstart.sh gestartet wurde.
 
 Bitte Pfade und Namen anpassen.
+
+Wenn ihr kein Money Serer habt und/oder Robust nicht benötigt, dann löscht den Bereich heraus.
