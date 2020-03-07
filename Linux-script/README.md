@@ -56,6 +56,3 @@ Wenn nicht wird mono-complete 5.x ohne weitere abfrage installiert.
     chmod +x /opt/ossettings.sh
 
 
-Bitte Pfade und Namen anpassen.
-
-Wenn ihr kein Money Serer habt und/oder Robust nicht benötigt, dann löscht den Bereich heraus.
